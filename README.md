@@ -1,4 +1,4 @@
-![강원대학교](https://www.kangwon.ac.kr/assets/ko/images/logos/logo-color.webp)
+![강원대학교](https://i.namu.wiki/i/o0RmRmT6YVNhUe4EHw5kwfaJUE-wQsqqe8Yl3dxMS13lp25C3z_nAhmcGxSQM0q1qjsqlGVPeD6drXmaNZu2Z5mv539F4ImD1BQ1vfY_VXpMv2kBMaV0EnFgXP_5FSCDh8jNCimt36horGLk8KU8ci7WH_p3cL4YNjtM1g4Magw.svg)
 
 This is H1
 ===
